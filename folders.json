@@ -35,6 +35,12 @@
       "name": "test",
       "parentFolderId": null,
       "homeProjectId": "3HIi6yew3dm8rfa0"
+    },
+    {
+      "id": "4k0sfSMIFTSrzER7",
+      "name": "test test",
+      "parentFolderId": null,
+      "homeProjectId": "3HIi6yew3dm8rfa0"
     }
   ],
   "workflowMappings": [
