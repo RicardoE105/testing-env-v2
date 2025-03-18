@@ -17,6 +17,12 @@
       "name": "root folder - subfolder 1",
       "parentFolderId": "aWrkhDXVfbFq3lMc",
       "homeProjectId": "u6uZGW3LYAjxsLDr"
+    },
+    {
+      "id": "CSHsIE69BQ9C6DGY",
+      "name": "test test",
+      "parentFolderId": null,
+      "homeProjectId": "3HIi6yew3dm8rfa0"
     }
   ],
   "workflowMappings": [
