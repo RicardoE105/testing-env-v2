@@ -1,0 +1,12 @@
+{
+  "id": "x472aSN2wtOrYlcJ",
+  "name": "ActiveCampaign account",
+  "type": "activeCampaignApi",
+  "data": {
+    "apiUrl": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "personalEmail": "ricardo@n8n.io"
+  }
+}
