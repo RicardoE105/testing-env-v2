@@ -1,0 +1,15 @@
+{
+  "id": "pfTiVtcBm6o8voFz",
+  "name": "grand grand workflow",
+  "nodes": [],
+  "connections": {},
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "triggerCount": 0,
+  "versionId": "bced6e4a-d3ad-45a6-805e-2e2948ad5825",
+  "owner": {
+    "type": "personal",
+    "personalEmail": "ricardo@n8n.io"
+  }
+}

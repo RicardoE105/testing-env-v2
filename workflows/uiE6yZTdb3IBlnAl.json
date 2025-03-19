@@ -1,0 +1,15 @@
+{
+  "id": "uiE6yZTdb3IBlnAl",
+  "name": "grand child workflow",
+  "nodes": [],
+  "connections": {},
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "triggerCount": 0,
+  "versionId": "e5cb6ae5-2e8a-45b2-bb11-d67a41a3e4a2",
+  "owner": {
+    "type": "personal",
+    "personalEmail": "ricardo@n8n.io"
+  }
+}

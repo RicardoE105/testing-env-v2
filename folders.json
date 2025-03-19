@@ -29,6 +29,36 @@
       "name": "folder with workflow",
       "parentFolderId": null,
       "homeProjectId": "3HIi6yew3dm8rfa0"
+    },
+    {
+      "id": "swsCer8vEj7dgN0B",
+      "name": "grandparent folder",
+      "parentFolderId": null,
+      "homeProjectId": "3HIi6yew3dm8rfa0"
+    },
+    {
+      "id": "sYoEqZbgyRHdtkxs",
+      "name": "parent folder",
+      "parentFolderId": "swsCer8vEj7dgN0B",
+      "homeProjectId": "3HIi6yew3dm8rfa0"
+    },
+    {
+      "id": "ibj5lxsTCoFNyonJ",
+      "name": "child folder",
+      "parentFolderId": "sYoEqZbgyRHdtkxs",
+      "homeProjectId": "3HIi6yew3dm8rfa0"
+    },
+    {
+      "id": "IDLyjaI2bF1l4NuC",
+      "name": "empty grand child folder",
+      "parentFolderId": "ibj5lxsTCoFNyonJ",
+      "homeProjectId": "3HIi6yew3dm8rfa0"
+    },
+    {
+      "id": "ebkviT04S62Wuz3l",
+      "name": "other grand child folder",
+      "parentFolderId": "ibj5lxsTCoFNyonJ",
+      "homeProjectId": "3HIi6yew3dm8rfa0"
     }
   ],
   "workflowMappings": [
@@ -39,6 +69,22 @@
     {
       "workflowId": "2lkZxBBfyDFlgKON",
       "parentFolderId": "iQ4pCoYxzx7j36x0"
+    },
+    {
+      "workflowId": "3vTA7n0As2ywoTVe",
+      "parentFolderId": "swsCer8vEj7dgN0B"
+    },
+    {
+      "workflowId": "KPZj9UWcp8hQumBJ",
+      "parentFolderId": "sYoEqZbgyRHdtkxs"
+    },
+    {
+      "workflowId": "uiE6yZTdb3IBlnAl",
+      "parentFolderId": "ibj5lxsTCoFNyonJ"
+    },
+    {
+      "workflowId": "pfTiVtcBm6o8voFz",
+      "parentFolderId": "IDLyjaI2bF1l4NuC"
     }
   ]
 }

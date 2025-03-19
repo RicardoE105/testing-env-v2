@@ -1,0 +1,15 @@
+{
+  "id": "SZlbL2BiER1uh6FV",
+  "name": "workflow outside folders",
+  "nodes": [],
+  "connections": {},
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "triggerCount": 0,
+  "versionId": "39a47fc5-c19b-41b4-8ee4-56dfa24dfe8c",
+  "owner": {
+    "type": "personal",
+    "personalEmail": "ricardo@n8n.io"
+  }
+}
