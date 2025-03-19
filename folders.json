@@ -23,12 +23,22 @@
       "name": "test",
       "parentFolderId": null,
       "homeProjectId": "3HIi6yew3dm8rfa0"
+    },
+    {
+      "id": "iQ4pCoYxzx7j36x0",
+      "name": "folder with workflow",
+      "parentFolderId": null,
+      "homeProjectId": "3HIi6yew3dm8rfa0"
     }
   ],
   "workflowMappings": [
     {
       "workflowId": "jrH4DQizwiMxaYan",
       "parentFolderId": "aWrkhDXVfbFq3lMc"
+    },
+    {
+      "workflowId": "2lkZxBBfyDFlgKON",
+      "parentFolderId": "iQ4pCoYxzx7j36x0"
     }
   ]
 }
