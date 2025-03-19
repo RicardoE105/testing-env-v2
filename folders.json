@@ -23,28 +23,12 @@
       "name": "test",
       "parentFolderId": null,
       "homeProjectId": "3HIi6yew3dm8rfa0"
-    },
-    {
-      "id": "nhKOgBR12F7dLHHE",
-      "name": "test test",
-      "parentFolderId": null,
-      "homeProjectId": "3HIi6yew3dm8rfa0"
-    },
-    {
-      "id": "V0XQy4EJwVgIMQTa",
-      "name": "test etst test",
-      "parentFolderId": "nhKOgBR12F7dLHHE",
-      "homeProjectId": "3HIi6yew3dm8rfa0"
     }
   ],
   "workflowMappings": [
     {
       "workflowId": "jrH4DQizwiMxaYan",
       "parentFolderId": "aWrkhDXVfbFq3lMc"
-    },
-    {
-      "workflowId": "kXDZoxK9XzxkzV9p",
-      "parentFolderId": "nhKOgBR12F7dLHHE"
     }
   ]
 }
