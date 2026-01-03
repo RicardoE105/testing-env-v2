@@ -1,0 +1,17 @@
+[
+  {
+    "id": "YBA5WnGk2nQEMRzE",
+    "name": "ricardo testing",
+    "projectId": "T5hNtrYDpPTRF2Us",
+    "columns": [
+      {
+        "id": "aSlmZZEAgEM6fKuN",
+        "name": "name",
+        "type": "string",
+        "index": 0
+      }
+    ],
+    "createdAt": "2026-01-02T23:37:29.111Z",
+    "updatedAt": "2026-01-02T23:37:41.219Z"
+  }
+]
