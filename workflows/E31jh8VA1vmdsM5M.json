@@ -1,6 +1,6 @@
 {
   "id": "E31jh8VA1vmdsM5M",
-  "name": "data-table",
+  "name": "data-table-test",
   "nodes": [
     {
       "parameters": {},
@@ -40,10 +40,10 @@
       "parameters": {
         "dataTableId": {
           "__rl": true,
-          "value": "YBA5WnGk2nQEMRzE",
+          "value": "R7dHZYigCRbIpJ1f",
           "mode": "list",
-          "cachedResultName": "ricardo testing",
-          "cachedResultUrl": "/projects/T5hNtrYDpPTRF2Us/datatables/YBA5WnGk2nQEMRzE"
+          "cachedResultName": "data-table-test",
+          "cachedResultUrl": "/projects/T5hNtrYDpPTRF2Us/datatables/R7dHZYigCRbIpJ1f"
         },
         "columns": {
           "mappingMode": "autoMapInputData",
@@ -95,7 +95,7 @@
     "executionOrder": "v1"
   },
   "triggerCount": 1,
-  "versionId": "8c2bcba8-95e2-4846-a47b-9c8d25a8a860",
+  "versionId": "db3724b0-ed81-4a65-9806-ca7f2cf865e7",
   "owner": {
     "type": "personal",
     "projectId": "T5hNtrYDpPTRF2Us",

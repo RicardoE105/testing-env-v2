@@ -28,5 +28,20 @@
     ],
     "createdAt": "2026-01-04T17:11:26.494Z",
     "updatedAt": "2026-01-04T17:11:31.902Z"
+  },
+  {
+    "id": "R7dHZYigCRbIpJ1f",
+    "name": "data-table-test",
+    "projectId": "T5hNtrYDpPTRF2Us",
+    "columns": [
+      {
+        "id": "mjHiOKl7ZQ9LxFaA",
+        "name": "name",
+        "type": "string",
+        "index": 0
+      }
+    ],
+    "createdAt": "2026-01-04T20:10:01.461Z",
+    "updatedAt": "2026-01-04T20:10:21.666Z"
   }
 ]
