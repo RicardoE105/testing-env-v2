@@ -13,5 +13,20 @@
     ],
     "createdAt": "2026-01-02T23:37:29.111Z",
     "updatedAt": "2026-01-02T23:37:41.219Z"
+  },
+  {
+    "id": "jJVaoWYAiejApbsJ",
+    "name": "another",
+    "projectId": "T5hNtrYDpPTRF2Us",
+    "columns": [
+      {
+        "id": "TAXyCqWpO9y594n8",
+        "name": "name",
+        "type": "string",
+        "index": 0
+      }
+    ],
+    "createdAt": "2026-01-04T17:11:26.494Z",
+    "updatedAt": "2026-01-04T17:11:31.902Z"
   }
 ]
