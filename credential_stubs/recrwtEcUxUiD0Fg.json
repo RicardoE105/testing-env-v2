@@ -1,0 +1,16 @@
+{
+  "id": "recrwtEcUxUiD0Fg",
+  "name": "Jira SW Cloud account",
+  "type": "jiraSoftwareCloudApi",
+  "data": {
+    "email": "",
+    "apiToken": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "T5hNtrYDpPTRF2Us",
+    "projectName": "ricardo espinoza <ricardo@n8n.io>",
+    "personalEmail": "ricardo@n8n.io"
+  },
+  "isGlobal": false
+}

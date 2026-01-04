@@ -1,0 +1,44 @@
+{
+  "id": "EjDAkdZ_jZK814FLx0RBY",
+  "name": "jira testing",
+  "nodes": [
+    {
+      "parameters": {
+        "events": [
+          "board_configuration_changed"
+        ],
+        "additionalFields": {}
+      },
+      "type": "n8n-nodes-base.jiraTrigger",
+      "typeVersion": 1.1,
+      "position": [
+        -144,
+        -96
+      ],
+      "id": "fda9da02-8db6-49ec-bc4e-3cae300a9064",
+      "name": "Jira Trigger",
+      "webhookId": "29fa9427-3809-4cd6-8ea0-b739b4702b98",
+      "credentials": {
+        "jiraSoftwareCloudApi": {
+          "id": "recrwtEcUxUiD0Fg",
+          "name": "Jira SW Cloud account"
+        }
+      }
+    }
+  ],
+  "connections": {},
+  "settings": {
+    "executionOrder": "v1",
+    "availableInMCP": false
+  },
+  "triggerCount": 0,
+  "versionId": "864175c3-6fa8-4265-9b51-e2da24f1f0a8",
+  "owner": {
+    "type": "personal",
+    "projectId": "T5hNtrYDpPTRF2Us",
+    "projectName": "ricardo espinoza <ricardo@n8n.io>",
+    "personalEmail": "ricardo@n8n.io"
+  },
+  "parentFolderId": null,
+  "isArchived": false
+}
