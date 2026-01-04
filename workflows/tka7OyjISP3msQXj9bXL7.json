@@ -1,0 +1,108 @@
+{
+  "id": "tka7OyjISP3msQXj9bXL7",
+  "name": "data-table-sync-demo",
+  "nodes": [
+    {
+      "parameters": {},
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [
+        -352,
+        -48
+      ],
+      "id": "828202d6-fce6-4d5b-863c-576164fb7997",
+      "name": "When clicking ‘Execute workflow’"
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "a6d6b71e-a7d2-4396-bd14-fd2878b2686a",
+              "name": "name",
+              "value": "ricardo",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        -144,
+        -48
+      ],
+      "id": "8aa4c681-3619-499b-b99f-25e934157047",
+      "name": "Edit Fields"
+    },
+    {
+      "parameters": {
+        "dataTableId": {
+          "__rl": true,
+          "value": "R7dHZYigCRbIpJ1f",
+          "mode": "list",
+          "cachedResultName": "data-table-test",
+          "cachedResultUrl": "/projects/T5hNtrYDpPTRF2Us/datatables/R7dHZYigCRbIpJ1f"
+        },
+        "columns": {
+          "mappingMode": "autoMapInputData",
+          "value": {},
+          "matchingColumns": [],
+          "schema": [],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {
+          "optimizeBulk": false
+        }
+      },
+      "type": "n8n-nodes-base.dataTable",
+      "typeVersion": 1.1,
+      "position": [
+        64,
+        -48
+      ],
+      "id": "1278f377-05c6-4ebc-9f22-9cdcff94c7b0",
+      "name": "Insert row"
+    }
+  ],
+  "connections": {
+    "When clicking ‘Execute workflow’": {
+      "main": [
+        [
+          {
+            "node": "Edit Fields",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Edit Fields": {
+      "main": [
+        [
+          {
+            "node": "Insert row",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1",
+    "availableInMCP": false
+  },
+  "triggerCount": 0,
+  "versionId": "be2c831c-630f-473d-853b-f614a8a8243d",
+  "owner": {
+    "type": "personal",
+    "projectId": "T5hNtrYDpPTRF2Us",
+    "projectName": "ricardo espinoza <ricardo@n8n.io>",
+    "personalEmail": "ricardo@n8n.io"
+  },
+  "parentFolderId": null,
+  "isArchived": false
+}

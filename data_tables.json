@@ -43,5 +43,26 @@
     ],
     "createdAt": "2026-01-04T20:10:01.461Z",
     "updatedAt": "2026-01-04T20:10:21.666Z"
+  },
+  {
+    "id": "99RpqLYXqskCNweS",
+    "name": "data-table-sync-demo",
+    "projectId": "T5hNtrYDpPTRF2Us",
+    "columns": [
+      {
+        "id": "6stBgoGNyj9DW4Xr",
+        "name": "age",
+        "type": "number",
+        "index": 1
+      },
+      {
+        "id": "3z7DCCTtn8I9OYhf",
+        "name": "name",
+        "type": "string",
+        "index": 0
+      }
+    ],
+    "createdAt": "2026-01-04T20:13:30.119Z",
+    "updatedAt": "2026-01-04T20:13:46.473Z"
   }
 ]
